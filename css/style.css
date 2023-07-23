@@ -1,0 +1,14 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+h1{
+    font-size: 60px;
+    color: #fff;
+    z-index: 5;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -60%);
+}
